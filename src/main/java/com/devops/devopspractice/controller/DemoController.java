@@ -28,6 +28,7 @@ public class DemoController {
 		list.add("HP");
 		list.add("ASCS");
 		list.add("Apple");
+		list.add("TCL");
 		
 		return list;
 	}
