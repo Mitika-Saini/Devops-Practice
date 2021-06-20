@@ -1,2 +1,2 @@
-FROM devops-practice:2.0.0
+FROM devops-practice:latest
 # Added to test webhook
